@@ -1,5 +1,8 @@
 Something else
+
 ##Not it
+
+
 # BIG TITLE
 
 *italics*
@@ -7,3 +10,5 @@ Something else
 **bold**
 
 this is;what is;something
+
+`vimtutor` is a great way to start with vim. 
